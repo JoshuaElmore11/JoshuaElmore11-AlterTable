@@ -40,7 +40,7 @@ import java.sql.Statement;
  */
 public class AlterATable {
 
-    /**
+    /** 
      *
      * In problem1.sql, write a SQL statement that adds a "lastname" column to the site_user table, of type
      * varchar(100).
